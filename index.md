@@ -4,3 +4,6 @@
 ```rust
 println!("that's a cool dog");
 ```
+- [x] look at cool dog
+- [x] enjoy the cool dog
+- [ ] make new cool dog
